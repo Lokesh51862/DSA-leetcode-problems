@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
