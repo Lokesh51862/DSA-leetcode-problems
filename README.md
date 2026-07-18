@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
