@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
 ## Number Theory
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0389-find-the-difference) |
 ## Queue
