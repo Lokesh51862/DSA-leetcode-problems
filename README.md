@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
