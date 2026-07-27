@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0389-find-the-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
