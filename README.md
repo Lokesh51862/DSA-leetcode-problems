@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0202-happy-number) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
