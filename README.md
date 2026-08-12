@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
