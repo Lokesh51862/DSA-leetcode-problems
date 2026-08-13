@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Queue
 |  |
 | ------- |
