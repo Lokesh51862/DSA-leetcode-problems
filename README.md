@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
