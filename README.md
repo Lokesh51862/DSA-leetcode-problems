@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0647-palindromic-substrings) |
 ## Number Theory
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0647-palindromic-substrings) |
