@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1927-sum-game) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Queue
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
