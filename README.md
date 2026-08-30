@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Lokesh51862/DSA-leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
 | ------- |
